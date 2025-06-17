@@ -1,0 +1,7 @@
+git init
+
+git add . (agregar todos archivos)
+
+git status (Status de todo)
+
+git commit -m " " (Hacer el commit)
